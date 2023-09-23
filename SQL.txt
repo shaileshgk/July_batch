@@ -1,0 +1,26 @@
+***SQL***
+
+***SQL Statments/Types***
+
+1) DDl (Data defination langauge)
+2) DML (Data Manupulation langauge)
+3) DCL ( Data control Langauge) / PLSql
+4) TCL (Transction control Langauge) / PLSql
+
+1)DDL - * Create   Ex- create database "database_name"
+        * Alter
+        * Drop     Ex - Drop Database 'Database_name'
+        * Truncate
+        * Rename
+
+2)DML - * Select   / select *from "Table_name"
+        * Insert
+        * Upadte
+        * Delete
+
+3) DCL - * Grant
+         * Revoke
+
+4) TCL - * Commit
+         * Rollback
+         * Save Print / Save trasactionas
